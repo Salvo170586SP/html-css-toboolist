@@ -68,7 +68,11 @@ body{
 
 /*sezione task*/
 #task{
-    margin-top: 20px;
+    margin: 20px 20px 20px 0;
+}
+
+.row-items{
+    margin: 25px;
 }
 
 .entity{
@@ -86,12 +90,26 @@ body{
 
 .link-task{
     border-radius: 20px;
-    border: 1px solid black;
     text-decoration-line: none;
-    padding: 5px;
+    padding: 10px;
 }
 
 .violet{
     background-color: violet;
+    color: white;
+}
 
+.blue{
+    background-color: blue;
+    color: white;
+}
+
+.pink{
+    background-color: pink;
+    color: white;
+}
+
+.orange{
+    background-color: orange;
+    color:white;
 }
