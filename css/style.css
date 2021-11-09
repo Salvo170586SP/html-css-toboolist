@@ -42,3 +42,56 @@ body{
 
 
 /*sezione link*/
+
+#link{
+
+    padding: 20px 0 0 20px;
+}
+
+.link-item{
+    border-radius: 5px;
+    text-decoration-line: none;
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#blue{
+    background-color: #1e90ff;
+    color: white;
+}
+
+#white{
+    border: 1px solid lightslategrey;
+    color: lightslategrey;
+}
+
+/*sezione task*/
+#task{
+    margin-top: 20px;
+}
+
+.entity{
+    width: 20px;
+    height: 20px;
+    border: 1px solid lightslategray;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.name-task{
+    display: inline;
+    font-size: 20px;
+}
+
+.link-task{
+    border-radius: 20px;
+    border: 1px solid black;
+    text-decoration-line: none;
+    padding: 5px;
+}
+
+.violet{
+    background-color: violet;
+
+}
