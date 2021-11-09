@@ -1,0 +1,32 @@
+/*general utility */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f6f8f9;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* intestazione home*/
+.header-page {
+    background-color: white;
+    margin-bottom: 30px;
+    padding: 10px;
+
+}
+
+#logo{
+    vertical-align: middle;
+}
+
+.title-logo {
+  display: inline;
+  font-weight: bolder;
+  font-size: 50px;
+  vertical-align: middle;
+}
