@@ -11,6 +11,13 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+hr{
+    border: 1px solid #f6f8f9 ;
+}
+
+section{
+    padding-left: 20px;
+}
 
 /* intestazione home*/
 .header-page {
@@ -37,7 +44,6 @@ body{
     margin: 0 auto;
     border-radius: 10px;
     background-color: white;
-    padding-left: 20px;
 }
 
 
