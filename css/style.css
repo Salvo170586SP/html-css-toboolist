@@ -32,8 +32,8 @@ body{
 }
 
 .container{
-    width: 70%;
-    height: 500px;
+    width: 50%;
+    height: 700px;
     margin: 0 auto;
     border-radius: 10px;
     background-color: white;
@@ -112,4 +112,14 @@ body{
 .orange{
     background-color: orange;
     color:white;
+}
+
+.yellowgreen{
+    background-color: yellowgreen;
+    color: white;
+}
+
+.green{
+    background-color: green;
+    color: white;
 }
