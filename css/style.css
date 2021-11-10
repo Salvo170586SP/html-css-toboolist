@@ -71,6 +71,7 @@ ul{
 }
 
 /*sezione task*/
+
 #task{
     padding: 20px;
 }
@@ -130,6 +131,10 @@ ul{
     background-color: green;
 }
 
+.task-text{
+    vertical-align: middle;
+}
+
 .task-item{
-    margin-top: 20px;
+    margin: 20px;
 }
