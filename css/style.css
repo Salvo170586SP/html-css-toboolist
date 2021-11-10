@@ -1,5 +1,4 @@
 /*general utility */
-
 *{
     margin: 0;
     padding: 0;
@@ -14,6 +13,7 @@ body{
 section{
     padding-left: 20px;
 }
+
 
 /* intestazione home*/
 .header-page {
@@ -45,8 +45,8 @@ ul{
     list-style-type: none;
 }
 
-/*sezione actions*/
 
+/*sezione actions*/
 #actions{
     padding: 10px 30px;
     border-bottom: 2px solid #78a1b6;
@@ -70,8 +70,8 @@ ul{
     color: lightslategrey;
 }
 
-/*sezione task*/
 
+/*sezione task*/
 #task{
     padding: 20px;
 }
@@ -87,7 +87,6 @@ ul{
     font-size: 10px;
 }
 
-
 .done{
     color:green;
     border-color: currentColor;
@@ -97,7 +96,6 @@ ul{
     color:red;
     border-color: currentColor;
 }
-
 
 .badge-task{
     border-radius: 10px;
